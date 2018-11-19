@@ -64,10 +64,8 @@ html {
     display: none;
   }
 
-  .chapter-ends,
   .inset-img {
-    display: none;
-    border: none;
+    border-color: #000;
   }
 
 }
